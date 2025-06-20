@@ -23,7 +23,7 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
 </a>
 </li>
 <li>
-   [Email: rizwan.shr528@hotmail.com](mailto:rizwan.shr528@hotmail.com)
+  Email: <a href="mailto:rizwan.shr528@hotmail.com">rizwan.shr528@hotmail.com</a>
 </li>
 </ul>
 <!--- Portfolio: [yourwebsite.com](https://yourwebsite.com)-->
