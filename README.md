@@ -17,7 +17,9 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
 ---
 
 ### 📫 Contact Me
-- LinkedIn: [Rizwan Shabbir](www.linkedin.com/in/rizwan-shabbir1)
+- LinkedIn:<a href="https://www.linkedin.com/in/rizwan-shabbir1" target="_blank" rel="noopener noreferrer">
+   Rizwan Shabbir
+</a>
 - Email: [rizwan.shr528@hotmail.com](mailto:rizwan.shr528@hotmail.com)
 <!--- Portfolio: [yourwebsite.com](https://yourwebsite.com)-->
 
